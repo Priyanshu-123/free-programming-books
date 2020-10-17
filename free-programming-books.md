@@ -415,6 +415,7 @@
 * [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com) - Simon J.D. Prince
 * [Computer Vision: Principles, Algorithms, Applications, Learning](https://b-ok.asia/book/3647629/015e5f) - E.R.Davies (PDF)
 * [Mastering OpenCV 4,Third Edition](https://www.packtpub.com/free-ebooks/mastering-opencv-4-third-edition) - Roy Shilkrot, David Millán Escrivá (Packt account *required*)
+* [Practical Computer Vision Applications Using Deep Learning with CNNs: With Detailed Examples in Python Using TensorFlow and Kivy](https://b-ok.asia/book/3640071/00dfb7) - Ahmed Fawzy Gad (PDF)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com) - Jan Erik Solem
 
 
