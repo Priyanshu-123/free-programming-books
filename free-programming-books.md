@@ -405,6 +405,7 @@
 * [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf) - Jeannette Wing, Carnegie-Mellon University (PDF)
 * [Computer Science I - Draft](https://bitbucket.org/chrisbourke/computersciencei/src) - Dr. Chris Bourke (PDF) (:construction: *in process*)
 * [Computer Science II - Draft](http://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Dr. Chris Bourke (PDF) (:construction: *in process*)
+* [Help Your Kids with Computer Science: A Unique Visual Step-by-Step Guide to Computers, Coding, and Communication](https://b-ok.asia/book/3687651/4ec5b4) - DK (PDF)
 
 
 #### Computer Vision
